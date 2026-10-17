@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "5a6373a58a182a8acbf812bb",
+  "owner": "mbhpfdkpa",
+  "repo": "page-479b03006f38375504a39680",
+  "title": "白嫖(SKY)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "479b03006f38375504a39680",
+      "a": "白嫖(SKY)",
+      "b": "",
+      "entity": "白嫖(SKY)",
+      "brand": "白嫖(SKY)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "747fa324eca3fe1486034ebd9d123a2669b5f4cae06674604d83a08d85f36f60",
+      "content": {
+        "keyword1": "白嫖(SKY)",
+        "keyword2": "",
+        "primary_entity": "白嫖(SKY)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "白嫖(SKY)是一款用时间线记录你每一次连出去的代理小工具，米白底配砖红线条，像一本随手翻开的旅行笔记。我们不承诺奇迹，只想把每一步都摆在你面前。",
+          "AI_DESCRIPTION": "白嫖(SKY)是一款用时间线记录你每一次连出去的代理小工具，米白底配砖红线条，像一本随手翻开的旅行笔记。我们不承诺奇迹，只想把每一步都摆在你面前。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}\nhtml{font-size:16px;line-height:1.7;-webkit-text-size-adjust:100%}\nbody{background:#f5efe2;color:#2b2118;font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;padding:0 0 4rem}\na{color:#a8321f;text-decoration:none;border-bottom:1px solid rgba(168,50,31,.4)}\na:hover{border-bottom-color:transparent}\n\n/* 整体栅格 */\n.shell{display:grid;grid-template-columns:160px 1fr;max-width:1180px;margin:0 auto}\n@media (max-width:780px){.shell{grid-template-columns:1fr}}\n\n/* 左侧竖排目录 */\n.side{position:sticky;top:0;align-self:start;height:100vh;padding:2.4rem 1rem 2rem 1.6rem;border-right:2px solid #2b2118;background:#f5efe2}\n@media (max-width:780px){.side{position:static;height:auto;border-right:0;border-bottom:2px solid #2b2118;padding:1.2rem}}\n.side h3{font-size:.78rem;letter-spacing:.2em;color:#a8321f;margin-bottom:1rem;font-weight:700}\n.side ol{list-style:none;counter-reset:s}\n.side li{counter-increment:s;margin:.35rem 0}\n.side li a{font-size:.82rem;color:#2b2118;border-bottom:1px dashed transparent}\n.side li a:hover{color:#a8321f;border-bottom-color:#a8321f}\n.side li::before{content:counter(s,decimal-leading-zero) \" ·\";font-size:.7rem;color:#a8321f;margin-right:.3rem;font-variant-numeric:tabular-nums}\n\nmain{padding:0 0 0 2.4rem;min-width:0}\n@media (max-width:780px){main{padding:1.2rem}}\n\n/* 通用区块 */\nsection{padding:3.6rem 0 2.4rem;border-bottom:2px dashed rgba(168,50,31,.35)}\nsection:last-child{border-bottom:0}\n.eyebrow{display:inline-block;font-size:.72rem;letter-spacing:.28em;color:#a8321f;border:1px solid #a8321f;padding:.25rem .6rem;text-transform:uppercase}\nh1{font-size:clamp(2.4rem,6vw,4.4rem);line-height:1.05;letter-spacing:-.02em;margin:1rem 0 .6rem;font-weight:800}\nh1 .name{display:inline-block;background:#a8321f;color:#f5efe2;padding:0 .4rem}\nh2{font-size:1.6rem;margin:1.2rem 0 1rem;font-weight:800;letter-spacing:-.01em}\nh2 .bar{display:inline-block;width:1.6rem;height:.4rem;background:#a8321f;vertical-align:middle;margin-right:.6rem}\nh3{font-size:1.1rem;margin:1.4rem 0 .5rem;font-weight:700}\np{margin:.6rem 0;color:#3a2e22;max-width:62ch}\n\n/* 首屏 时间线 */\n.timeline-hero{padding:4rem 0 3rem}\n.timeline-hero .lede{font-size:1.05rem;color:#3a2e22;max-width:56ch}\n.hero-line{border-left:2px solid #2b2118;margin-top:2rem;padding-left:1.2rem}\n.hero-line .node{position:relative;padding:1rem 0 .2rem}\n.hero-line .node::before{content:\"\";position:absolute;left:-1.55rem;top:1.3rem;width:.7rem;height:.7rem;background:#a8321f;border:2px solid #f5efe2}\n.hero-line .node time{font-size:.75rem;letter-spacing:.18em;color:#a8321f;text-transform:uppercase}\n.hero-line .node p{margin:.3rem 0 0;font-size:.95rem}\n\n/* 粗描边直角卡片 */\n.card{border:2px solid #2b2118;padding:1.4rem 1.4rem 1.2rem;background:#faf6ec;box-shadow:6px 6px 0 #2b2118;margin:1rem 0}\n.card .tag{display:inline-block;font-size:.7rem;letter-spacing:.2em;background:#2b2118;color:#f5efe2;padding:.2rem .55rem}\n.card.featured{border-color:#a8321f;box-shadow:6px 6px 0 #a8321f}\n.card.featured .tag{background:#a8321f}\n\n.plans-list{display:grid;grid-template-columns:1fr;gap:1.2rem}\n@media (min-width:760px){.plans-list{grid-template-columns:1fr 1fr}.plans-list .full{grid-column:1/-1}}\n.plan-row .price{font-size:1.8rem;font-weight:800;color:#a8321f;margin:.4rem 0}\n.plan-row .price small{font-size:.8rem;color:#3a2e22;font-weight:500;margin-left:.3rem}\n.plan-row ul{list-style:none;margin:.8rem 0 .4rem}\n.plan-row li{padding:.35rem 0 .35rem 1.4rem;position:relative;border-bottom:1px dashed rgba(168,50,31,.35);font-size:.92rem}\n.plan-row li:last-child{border-bottom:0}\n.plan-row li::before{content:\"→\";position:absolute;left:0;color:#a8321f;font-weight:700}\n\n.faq-list{counter-reset:f;display:grid;grid-template-columns:1fr;gap:1rem}\n@media (min-width:760px){.faq-list{grid-template-columns:1fr 1fr}}\n.faq-item{border:2px solid #2b2118;padding:1rem 1.1rem;background:#faf6ec;counter-increment:f}\n.faq-item h4{font-size:1rem;margin-bottom:.4rem;display:flex;gap:.6rem;align-items:baseline}\n.faq-item h4::before{content:counter(f,decimal-leading-zero);color:#a8321f;font-variant-numeric:tabular-nums;font-weight:800}\n.faq-item p{font-size:.9rem;color:#3a2e22;margin:0}\n\n.kv{display:grid;grid-template-columns:1fr 1fr;gap:1rem;margin:1rem 0}\n@media (max-width:520px){.kv{grid-template-columns:1fr}}\n.kv div{border:2px solid #2b2118;padding:1rem}\n.kv .k{font-size:.7rem;letter-spacing:.2em;color:#a8321f}\n.kv .v{font-size:1.05rem;font-weight:700;margin-top:.2rem}\n\n.note{font-size:.85rem;color:#6b5a48;font-style:italic;border-left:4px solid #a8321f;padding:.4rem 0 .4rem 1rem;margin:1rem 0}\n\nfooter{max-width:1180px;margin:0 auto;padding:1.5rem 1.6rem;border-top:2px solid #2b2118;font-size:.8rem;color:#6b5a48;display:flex;justify-content:space-between;flex-wrap:wrap;gap:.6rem}\n@media (max-width:780px){footer{padding:1rem}}\n</style><div class=\"shell\">\n\n<aside class=\"side\" aria-label=\"目录\">\n<h1>白嫖(SKY) · 目录</h1>\n<ol>\n<li><a href=\"#hero\">写在开头</a></li>\n<li><a href=\"#story\">为什么叫白嫖</a></li>\n<li><a href=\"#how\">怎么用</a></li>\n<li><a href=\"#plans\">套餐一览</a></li>\n<li><a href=\"#check\">小提醒</a></li>\n<li><a href=\"#faq\">常见问题</a></li>\n</ol>\n</aside>\n\n<main>\n\n<section class=\"timeline-hero\" id=\"hero\">\n<span class=\"eyebrow\">致每一位想出门看看的你</span>\n<h2>白嫖<span class=\"name\">(SKY)</span><br>把每一次连出去，写成时间轴上的一段小记。</h2>\n<p class=\"lede\">如果你把\"翻出去看世界\"当成一次旅行，那这本小册子就是你的路线图。我们不卖奇迹，也不打包票，只想把每一站都摆在你面前：哪一站适合第一次出发，哪一站适合老朋友常回来。</p>\n\n<div class=\"hero-line\">\n<div class=\"node\">\n<time>07:42 · 起床</time>\n<p>刷到一条只能在外网看到的视频，链接贴在便签里存了一夜。</p>\n</div>\n<div class=\"node\">\n<time>08:15 · 出门</time>\n<p>打开白嫖(SKY)，节点像公交站牌一样列在屏幕上，挑一个就上。</p>\n</div>\n<div class=\"node\">\n<time>10:30 · 在路上</time>\n<p>视频开始缓冲的那一刻，发现其实也没等多久。</p>\n</div>\n<div class=\"node\">\n<time>14:00 · 午休</time>\n<p>顺手把收藏夹里那篇拖了很久的文章读完。</p>\n</div>\n<div class=\"node\">\n<time>22:10 · 回家</time>\n<p>关掉客户端，把今天的路线又看了一遍。</p>\n</div>\n</div>\n<p class=\"note\">上面的时间是虚构的，但那种\"顺手就上、看完就走\"的感觉，是我们想留给你的。</p>\n</section>\n\n<section id=\"story\">\n<h2><span class=\"bar\"></span>为什么叫「白嫖」</h2>\n<p>起名这件事在我们内部吵了三顿饭。最早版本是「SKY」，因为我们都觉得，第一次成功连出去的那种感觉，就像推开窗看见天。然后同事老陈说：\"其实大家最在意的，还是那点试用门槛。\"于是就有了副标题。</p>\n<p>我们愿意承认：在这个圈子里，新人最怕的就是\"先交钱再试\"。所以白嫖(SKY)的试用阶段被我们拆得很细，先让你把路线走熟，再决定要不要把它写进长期旅行本里。这是名字的全部来由，没有别的暗示。</p>\n\n<div class=\"kv\">\n<div><div class=\"k\">主色调</div><div class=\"v\">米白 · 砖红</div></div>\n<div><div class=\"k\">主风格</div><div class=\"v\">纸笔小记</div></div>\n<div><div class=\"k\">适合谁</div><div class=\"v\">爱看长文的人</div></div>\n<div><div class=\"k\">不适合谁</div><div class=\"v\">追求极致跑分的人</div></div>\n</div>\n</section>\n\n<section id=\"how\">\n<h2><span class=\"bar\"></span>怎么用，三步</h2>\n<div class=\"hero-line\">\n<div class=\"node\">\n<time>第一步</time>\n<p>在套餐页面选一个你愿意试的档位，付款后系统会发一份订阅链接到你的邮箱。链接长得像一串看不懂的字符，没关系，把它整段复制下来。</p>\n</div>\n<div class=\"node\">\n<time>第二步</time>\n<p>打开你手边常用的代理客户端，把订阅链接粘进去，让它自己更新一次。这一步相当于让客户端认得你新买的票。</p>\n</div>\n<div class=\"node\">\n<time>第三步</time>\n<p>在节点列表里挑一个延迟看起来顺眼的，双击连上，浏览器里能打开外面的页面，就算上车了。如果第一个节点不顺，挨个换就好，不用反复重启。</p>\n</div>\n</div>\n<p class=\"note\">客户端下载请前往你常用的软件站或应用市场，认准开发者署名；本页面不直接放置下载链接，避免你点到错的版本。</p>\n</section>\n\n<section id=\"plans\">\n<h2><span class=\"bar\"></span>套餐一览</h2>\n<p>三个档位，从轻装上路到老朋友回门，按月或者按年都行。下面这张表，是我们内部最常被翻出来对照的一张。</p>\n\n<div class=\"plans-list\">\n\n<div class=\"card plan-row\">\n<span class=\"tag\">基础版</span>\n<div class=\"price\">¥15<small>/月</small></div>\n<p>给\"想先试试\"的朋友准备的一张小登船票。</p>\n<ul>\n<li>每月 100GB 极速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n<p>按年付仅需 ¥150/年。</p>\n</div>\n\n<div class=\"card plan-row featured\">\n<span class=\"tag\">旗舰版 · 推荐</span>\n<div class=\"price\">¥35<small>/月</small></div>\n<p>大多数人的最终归宿，适合把它当成\"日常工具\"而不是\"应急工具\"的朋友。</p>\n<ul>\n<li>每月 300GB 极速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7x24 优先工单支持</li>\n</ul>\n<p>按年付仅需 ¥350/年。</p>\n</div>\n\n<div class=\"card plan-row full\">\n<span class=\"tag\">团队版</span>\n<div class=\"price\">¥85<small>/月</small></div>\n<p>给一整个小工作室，或者一家人在同一个 Wi-Fi 下都用得顺手。</p>\n<ul>\n<li>每月 1000GB 极速流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n<p>按年付仅需 ¥850/年。</p>\n</div>\n\n</div>\n<p class=\"note\">价格仅作示例展示，实际以你购买时页面结算为准。流量用完后不会被强制断网，通常会进入限速队列，下个月初自动恢复。</p>\n</section>\n\n<section id=\"check\">\n<h2><span class=\"bar\"></span>动身之前，几个小提醒</h2>\n<div class=\"card\">\n<h3>关于试用期</h3>\n<p>新用户通常会有一次短时长的体验窗口，具体长度以下单页提示为准。体验期内不满意的，可以联系客服走退款流程。</p>\n</div>\n<div class=\"card\">\n<h3>关于节点</h3>\n<p>节点列表会在每天凌晨自动刷新一次。如果你看到一个节点连续几天都慢，不要怀疑自己的网，可以换一个试试，或者顺手报给工单。</p>\n</div>\n<div class=\"card\">\n<h3>关于客户端</h3>\n<p>我们不强推某一家的客户端，只要它能识别通用订阅链接，都能配合使用。请务必从你信得过的渠道下载，避免被二次打包的版本。</p>\n</div>\n</section>\n\n<section id=\"faq\">\n<h2><span class=\"bar\"></span>常见问题</h2>\n<p>下面是这段时间里被问得最多的几个问题，统一回一下。如果你的问题不在里面，欢迎直接发邮件给我们。</p>\n<div class=\"faq-list\">\n\n<div class=\"faq-item\">\n<h4>我是第一次用这种东西，会很难上手吗？</h4>\n<p>不会。最麻烦的部分其实就是\"挑一个客户端并粘贴订阅链接\"，剩下的交给它自己跑。多数人在十分钟之内就能完成第一次成功连接。</p>\n</div>\n\n<div class=\"faq-item\">\n<h4>套餐里的\"极速流量\"用完了会怎样？</h4>\n<p>不会断网。通常会进入当月剩余时段的限速队列，速度变慢但仍能用于查资料、回邮件；下个月初配额自动恢复，不需要你手动操作。</p>\n</div>\n\n<div class=\"faq-item\">\n<h4>我能同时在手机和电脑上用同一个账号吗？</h4>\n<p>可以。每个套餐都标注了同时在线的设备数，在这个范围内，把订阅链接分别导入不同客户端即可。超出上限的设备会被自动踢下线。</p>\n</div>\n\n<div class=\"faq-item\">\n<h4>年付比月付便宜多少？</h4>\n<p>以旗舰版为例，月付一年是 ¥420，年付一次性是 ¥350，相当于省下两个多月的费用。基础版和团队版的年付同样按月付的 10 个月计价。</p>\n</div>\n\n<div class=\"faq-item\">\n<h4>如果节点连不上，能退款吗？</h4>\n<p>在订阅周期内如果长期无法正常使用，可凭工单记录申请按剩余天数比例退款；体验期内的退款门槛更低，具体以订单页说明为准。</p>\n</div>\n\n<div class=\"faq-item\">\n<h4>你们会记录我的浏览记录吗？</h4>\n<p>本页面所属工具本身不记录你访问了哪些站点。出于运维需要，服务器端仅保留必要的连接时长与流量统计，不做内容层面的留存。</p>\n</div>\n\n<div class=\"faq-item\">\n<h4>团队版的\"专属客户经理\"是真人吗？</h4>\n<p>是真人。工作日里他/她会通过工单系统回复你，遇到紧急情况也可以约电话或语音沟通。请把能描述清楚的问题一次性发出来，能省不少来回。</p>\n</div>\n\n<div class=\"faq-item\">\n<h4>可以中途升级或降级套餐吗？</h4>\n<p>可以。升级会按剩余天数补差价立即生效；降级会在当前周期结束后于下一周期切换，不会中途打断你的使用。</p>\n</div>\n\n</div>\n</section>\n\n</main>\n</div>\n\n<footer>\n<span>白嫖(SKY) · 一本写给\"想出去看看\"的朋友的小册子</span>\n<span>本页所述价格与功能仅作展示，请以订单页实际内容为准</span>\n</footer>",
+          "hash": "a76b52a2d25b09bbda6cd28846ef07682233df01b029cf09e727919d345aafe5",
+          "seo": {
+            "title": "白嫖(SKY) — 一个把看世界这件事写进时间轴的代理小记",
+            "keywords": "白嫖,SKY,代理服务,网络工具,翻墙工具,节点订阅,流媒体解锁,游戏加速",
+            "description": "白嫖(SKY)是一款用时间线记录你每一次连出去的代理小工具，米白底配砖红线条，像一本随手翻开的旅行笔记。我们不承诺奇迹，只想把每一步都摆在你面前。"
+          },
+          "provider": "grok",
+          "model": "MiniMax-M3",
+          "design": {
+            "no": "5581",
+            "hero": "6 纵向时间线引入",
+            "palette": "2 米白配砖红",
+            "nav": "2 左侧竖排目录",
+            "card": "2 粗描边直角",
+            "plans_view": "2 纵向列表逐行展开",
+            "faq_view": "2 编号列表",
+            "tone": "2 亲切的朋友式口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bosoncovt.cn",
+    "host": "p-bce89876bf.bosoncovt.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "96f8f441a248333be026bc8175b64b7ee050ef0d3bf559420eb40e677508aab6",
+    "sitemap.xml": "d15b0479aab1d3a5548f779f55d3a745fd1a4d6897cbace3eb70c1eba6409adb",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "16ba3c43ddef0e9bbfde99555009f52988f73a8e8db1d54e5205750a67ac1b19",
+    "robots.txt": "c26c5782d5e0cde191377e1e6e7481ce55cc21c0430ca525793e0a7876e14a8d",
+    "4be6d20e7c3d7481a764fbbf7439721e.txt": "b3e299dc0d63fb58e2f8021c7b2b6469f53ccf3e49fb88e4d0647845844f720f"
+  },
+  "revision": "171cec325d543050d220bdbb143527205bbbc95901a70c453b41c8acd70815a8"
+}
